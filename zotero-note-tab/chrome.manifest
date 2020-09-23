@@ -1,0 +1,5 @@
+content	zotero-note-tab				content/
+locale	zotero-note-tab	en-US		locale/en-US/
+skin	zotero-note-tab	default		skin/
+
+overlay	chrome://zotero/content/itemPane.xul	chrome://zotero-note-tab/content/itemPane.xul

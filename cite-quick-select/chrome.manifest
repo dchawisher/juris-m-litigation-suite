@@ -1,0 +1,5 @@
+content	cite-quick-select				content/
+locale	cite-quick-select	en-US		locale/en-US/
+skin	cite-quick-select	default		skin/
+
+overlay	chrome://zotero/content/integration/addCitationDialog.xul	chrome://cite-quick-select/content/addCitationDialog.xul
